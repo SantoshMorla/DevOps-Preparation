@@ -1,4 +1,4 @@
-DOCKER SCENARIO BASED INTERVIEW QUESTIONS
+DOCKER SCENARIO BASED INTERVIEW QUESTIONS.
 
 1. Scenario: You are working on optimizing a CI/CD pipeline, and your Docker images are becoming too large and slow to deploy. What can you do to reduce the image size using a multi-stage build?
 Use multi-stage builds to separate build and runtime dependencies.
